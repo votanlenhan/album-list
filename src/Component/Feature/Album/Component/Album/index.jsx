@@ -1,6 +1,6 @@
 import React from 'react';
-import PropTypes from 'prop-types';
-import AlbumList from '../AlbumList';
+
+
 import './styles.scss'
 
 //
