@@ -9,26 +9,27 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         
+
         </p>
         <a
           className="App-link"
           href="https://www.facebook.com/votanlenhan"
           target="_blank"
           rel="noopener noreferrer"
-          
+
         >
           King Of React ok
+          ok ok
         </a>
-         <AlbumFeature/> 
-      
+        <AlbumFeature />
 
-       
-       <TodoFeature/>
-       
-      
-        
-        
+
+
+        <TodoFeature />
+
+
+
+
       </header>
     </div>
   );
