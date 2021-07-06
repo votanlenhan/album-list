@@ -18,8 +18,7 @@ function App() {
           rel="noopener noreferrer"
 
         >
-          King Of React ok
-          ok ok
+          King Of React
         </a>
         <AlbumFeature />
 
